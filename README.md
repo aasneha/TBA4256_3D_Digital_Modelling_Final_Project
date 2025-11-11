@@ -6,6 +6,8 @@ Final project in 3D digital modelling
 python setup_env.py
 
 ##
-Once the environments is ready, open and run the notebook final_project.ipynb 
-The file classified_voxels.png visualizes the final voxel classification.
-Additional outputs (.las and .npy files) are generated automatically.
+### Once the environments is ready, open and run the notebook 
+final_project.ipynb 
+
+### The file classified_voxels.png visualizes the final voxel classification.
+### Additional outputs (.las and .npy files) are generated automatically.
