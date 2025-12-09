@@ -7,7 +7,7 @@ Final project in 3D digital modelling
 python setup_env.py
 
 ---
-#### Once the environments is ready, open and run the notebook 
+#### Once the environment is ready, open and run the notebook 
 final_project.ipynb 
 
 ---
